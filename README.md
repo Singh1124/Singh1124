@@ -1,5 +1,8 @@
-<img src="profile.jpg" alt="Profile Picture of Rahul Singh">
-<h1 align="center">Hi 👋, I'm Rahul Singh</h1>
+
+
+
+<img src="profile.jpg" alt="Profile Picture of Rahul Singh" align="center" width="400px" height="400px" border-radius="20px" margin-bottom="20px">
+<h1 align="left">Hi 👋, I'm Rahul Singh</h1>
 <h3 align="center">🎓 Data Engineering Student | Passionate about Machine Learning & Analytics | 🎙️ Public Speaking Enthusiast | 💼 Future Business Innovator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh1124&label=Profile%20views&color=0e75b6&style=flat" alt="singh1124" /> </p>
