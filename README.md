@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Rahul Singh</h1>
 <h3 align="center">🎓 Data Engineering Student | Passionate about Machine Learning & Analytics | 🎙️ Public Speaking Enthusiast | 💼 Future Business Innovator</h3>
 
@@ -12,10 +13,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@rahulsingh24274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rahulsingh24274" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/rahul-mr-singh-060230243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/rahul-mr-singh-060230243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-mr-singh-060230243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/1m3kcuwg3q/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1m3kcuwg3q/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/singhrahul0901?igsh=btf4axewmg93bge5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/singhrahul0901?igsh=btf4axewmg93bge5" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/v2eewkzkht/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/v2eewkzkht/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-mr-singh-060230243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-mr-singh-060230243" height="30" width="40" /></a>
+<a href="https://fb.com/singhofficial1124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="singhofficial1124" height="30" width="40" /></a>
+<a href="https://instagram.com/singhrahul0901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singhrahul0901" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/v2eewkzkht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="v2eewkzkht" height="30" width="40" /></a>
 <a href="https://discord.gg/rahulsingh0967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rahulsingh0967" height="30" width="40" /></a>
 </p>
 
